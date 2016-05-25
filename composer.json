@@ -1,0 +1,17 @@
+{
+    "name": "luanlmd/contentful-site",
+    "description": "Contentful Site",
+    "license": "BSD Style",
+    "authors": [
+        {
+            "name": "Luan Almeida",
+            "email": "luanlmd@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "1.0.x-dev",
+        "twig/twig": ">=1.8,<2.0-dev",
+        "symfony/twig-bridge": "2.1.*",
+        "contentful/contentful": "@beta"
+    }
+}
